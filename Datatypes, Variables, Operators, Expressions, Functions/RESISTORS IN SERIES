@@ -1,0 +1,4 @@
+R1=int(input("Enter r1 value\n"))
+R2=int(input("Enter r2 value\n"))
+p1=R1+R2
+print("Equivalent resistance is",p1)
